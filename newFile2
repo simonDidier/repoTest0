@@ -1,0 +1,3 @@
+Ceci est mon 2ème fichier
+il est créé en local alors qu'un autre fichier (README) vient d'être créé en remote.
+En principe il faut exécuter un "pull" avant de pouvoir exporter newFile2!
